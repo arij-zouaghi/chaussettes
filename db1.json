@@ -3,13 +3,13 @@
     {
       "id": 2001,
       "color": "green",
-      "image": "assets/img/socks_green.jpg",  // Assurez-vous que l'image est accessible dans le dossier public ou assets
+      "image": "assets/img/socks_green.jpg",  
       "quantity": 10
     },
     {
       "id": 2002,
       "color": "blue",
-      "image": "assets/img/socks_blue.jpg",  // Idem pour l'image
+      "image": "assets/img/socks_blue.jpg",
       "quantity": 0
     }
   ]
